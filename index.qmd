@@ -9,11 +9,10 @@ about:
       href: https://github.com/zw038
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/[zane-wilson-581b633aa]
+      href: https://linkedin.com/in/zane-wilson-581b633aa
     - icon: inboxes
       text: Contact
-      href: mailto: zane.wilson50@gmail.com
+      href: mailto:zane.wilson50@gmail.com
 ---
 
-I'm an Industrial Engineering student at the University of Arkansas. I am interested into the buisness side of the industry with a goal of working at a Fortune 500 company leanring how to operations research.
----
+I'm an Industrial Engineering student at the University of Arkansas. I'm interested in the business side of the industry, with a goal of working at a Fortune 500 company and learning operations research.
