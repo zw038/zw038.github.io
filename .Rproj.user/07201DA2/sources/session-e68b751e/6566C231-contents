@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "quarto blog"
+
+  navbar:
+    right:
+      - text: About
+        href: index.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: bluesky
+        href: https://bsky.app/
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+        
+format:
+  html:
+    theme: cosmo
+      css: styles.css
+      
+editor: visual

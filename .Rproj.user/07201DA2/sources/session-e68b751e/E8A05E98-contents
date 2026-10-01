@@ -1,0 +1,16 @@
+---
+title: "Zane Wilson"
+image: headshot.jpg
+about:
+template: jolla
+links:
+- icon: github
+text: GitHub
+href: https://github.com/[GitHub_zw038]
+- icon: linkedin
+text: LinkedIn
+href: https://linkedin.com/in/[zane-wilson-581b633aa]
+- icon: inboxes
+text: Contact
+href: mailto:[zane.wilson50@gmail.com]
+---
