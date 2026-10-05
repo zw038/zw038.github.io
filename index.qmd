@@ -15,4 +15,5 @@ about:
       href: mailto:zane.wilson50@gmail.com
 ---
 
-I'm an Industrial Engineering student at the University of Arkansas. I'm interested in the business side of the industry, with a goal of working at a Fortune 500 company and learning operations research.
+I'm an Industrial Engineering student at the University of Arkansas. I am interested into the buisness side of the industry with a goal of working at a Fortune 500 company leanring how to operations research.
+---
