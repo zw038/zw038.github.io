@@ -7,6 +7,55 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/CTA Data Visualizations/index.html",
+    "href": "posts/CTA Data Visualizations/index.html",
+    "title": "Data Visualization Team Project",
+    "section": "",
+    "text": "This project was completed with Rhishab Dahal, Dennis Morrison, Reid Banks, Stafford Waller and Me."
+  },
+  {
+    "objectID": "posts/CTA Data Visualizations/index.html#team",
+    "href": "posts/CTA Data Visualizations/index.html#team",
+    "title": "Data Visualization Team Project",
+    "section": "",
+    "text": "This project was completed with Rhishab Dahal, Dennis Morrison, Reid Banks, Stafford Waller and Me."
+  },
+  {
+    "objectID": "posts/CTA Data Visualizations/index.html#about-the-data-set",
+    "href": "posts/CTA Data Visualizations/index.html#about-the-data-set",
+    "title": "Data Visualization Team Project",
+    "section": "About the Data Set",
+    "text": "About the Data Set\nOur data set is a CTA ridership spreadsheet with average weekday ridership for each CTA “L” station, recorded month by month from 2019 through July 2026. It covers 144 stations and lists the train lines that stop at each one, which let us compare stations by size, service, and how their ridership changed after COVID-19. For the crime question, we paired the ridership data with the 2024 homicide rate of each station’s Chicago community area."
+  },
+  {
+    "objectID": "posts/CTA Data Visualizations/index.html#question-1-how-has-ridership-on-the-cta-rebounded-after-the-covid-19-pandemic",
+    "href": "posts/CTA Data Visualizations/index.html#question-1-how-has-ridership-on-the-cta-rebounded-after-the-covid-19-pandemic",
+    "title": "Data Visualization Team Project",
+    "section": "Question 1: How has Ridership on the CTA Rebounded After the COVID-19 Pandemic?",
+    "text": "Question 1: How has Ridership on the CTA Rebounded After the COVID-19 Pandemic?\n\n\n\nTime-series chart for ridership pre and post COVID\n\n\nTo answer that question a time‑series graph was built showing average weekday CTA ridership at selected stations on each of the eight CTA L lines. The horizontal axis displays years in the data each year linked to the month of March so every year is compared at the point in time. The vertical axis displays average weekday CTA ridership, at each station. When CTA ridership is plotted over time the graph shows how CTA ridership fell during the pandemic and how much of that fall has come back."
+  },
+  {
+    "objectID": "posts/CTA Data Visualizations/index.html#question-2-how-much-does-the-crime-rate-affect-ridership",
+    "href": "posts/CTA Data Visualizations/index.html#question-2-how-much-does-the-crime-rate-affect-ridership",
+    "title": "Data Visualization Team Project",
+    "section": "Question 2: How much does the crime rate affect ridership?",
+    "text": "Question 2: How much does the crime rate affect ridership?\n\n\n\nHistogram of ridership per station\n\n\nWe asked whether stations in higher-crime neighborhoods see fewer riders. We plotted 124 Chicago rapid transit stations, pairing each one’s 2024 average weekday boardings with the 2024 homicide rate of its community area, and left out 19 suburban stations that the city’s crime data doesn’t cover. Our scatter plot’s downward-sloping trendline shows that every 10 additional homicides per 100,000 residents goes with roughly 270 fewer daily boardings, and the pattern holds even with the Loop set aside. Higher-crime neighborhoods tend to have lower ridership, but crime explains only a modest share of the differences between stations, so this is an association and not proof that crime drives riders away."
+  },
+  {
+    "objectID": "posts/CTA Data Visualizations/index.html#question-3-what-is-the-statistical-distribution-of-ridership-in-2021",
+    "href": "posts/CTA Data Visualizations/index.html#question-3-what-is-the-statistical-distribution-of-ridership-in-2021",
+    "title": "Data Visualization Team Project",
+    "section": "Question 3: What is the statistical distribution of ridership in 2021?",
+    "text": "Question 3: What is the statistical distribution of ridership in 2021?\n\n\n\nBar chart of month-to-month ridership variation\n\n\nThe distribution was determined by analyzing the weekday ridership of each CTA station in 2021. The average of each station’s 12 monthly weekday ridership values was calculated in Excel using the function, which gave one 2021 value per station. A histogram was then created from these values effectively grouping stations into bins based on their weekday ridership. Most stations fall in the bins with 64 of the 144 averaging fewer than 1,000 weekday riders while a small number of stations average more than 4,800. The mean (about 1,431 riders) is higher than the median (about 1,121 riders). The skewness of about 1.54 confirms the long tail, to the right. Because 2021 was still affected by the COVID‑19 pandemic these figures reflect ridership."
+  },
+  {
+    "objectID": "posts/CTA Data Visualizations/index.html#question-4-which-station-has-the-most-constant-movement-with-the-lowest-wait-time",
+    "href": "posts/CTA Data Visualizations/index.html#question-4-which-station-has-the-most-constant-movement-with-the-lowest-wait-time",
+    "title": "Data Visualization Team Project",
+    "section": "Question 4: Which station has the most constant movement with the lowest wait time?",
+    "text": "Question 4: Which station has the most constant movement with the lowest wait time?\n\n\n\nAssertion-evidence slide for Question 1\n\n\nWe asked which CTA station has the most constant flow of riders while still getting frequent service, since riders want predictable crowds and short waits. As industrial engineering students, we also saw this as a flow question: steady arrivals and frequent service keep lines short, on a platform or a production line. In Excel, we looked at stations served by 3 or more train lines, since more lines means more trains. We counted lines with LEN and SUBSTITUTE, used INDEX and MATCH to pull 24 months of weekday ridership (August 2024 to July 2026) to avoid the COVID drop, and divided STDEV.S by AVERAGE to measure month-to-month variation, where a lower percentage means steadier ridership. For our assertion-evidence slide, we sorted stations from steadiest to least steady in a horizontal bar chart, colored Howard’s bar orange, added each station’s line count to its label, and added percentage data labels. Howard varies only 6.7%, while Clark/Lake (14.8%) and Washington/Wabash (23.4%) swing much more, so Howard has the most constant flow with three train lines."
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -18,6 +67,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 1, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization Team Project\n\n\nWe used CTA ridership data to explore how crime, COVID-19, and service frequency relate to ridership across Chicago’s L stations.\n\n\n\nRhishab Dahal, Zane Wilson, Dennis Morrison, Reid Banks, Stafford Waller\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
