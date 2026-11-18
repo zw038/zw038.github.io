@@ -1,7 +1,9 @@
 ---
-title: "resume"
+title: "Resume"
 ---
 
-<iframe width="800" height="1000" src="resume.pdf">
+Industrial Engineering student at the University of Arkansas seeking a Summer 2027 internship.
 
-</iframe>
+[Download PDF](resume.pdf){.btn .btn-primary download="Zane_Wilson_Resume.pdf"}
+
+<iframe src="resume.pdf" width="100%" height="1100px" style="border: 1px solid #ddd; border-radius: 6px;"></iframe>
