@@ -15,5 +15,4 @@ about:
       href: mailto:zane.wilson50@gmail.com
 ---
 
-I'm an Industrial Engineering student at the University of Arkansas. I'm interested in the business side of the industry, with a goal of working at a Fortune 500 company and growing into operations research. Here you'll find my class projects and my resume.
----
+I'm an Industrial Engineering student at the University of Arkansas seeking a Summer 2027 internship. I analyzed 7+ years of ridership data for 144 Chicago transit stations in Excel to rank service steadiness and measure post-COVID recovery, and I bring three summers of construction site operations and supervisory experience leading a 60-child program.
